@@ -1,0 +1,9 @@
+node.js
+git
+fd/find
+ripgrep
+fzf
+C compiler
+Clipboard tool (xclip/xsel/win32yank or other depending on the platform)
+Nerd Fonts
+make
